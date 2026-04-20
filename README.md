@@ -1,2 +1,2 @@
 # Arlo.EXE Clicker
-A retro computer clicker game for mobile phones. 
+A computer clicker game by ARLO the quokka! relaxing and SUPER retro!
